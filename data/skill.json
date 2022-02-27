@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Frontend Developer",
+    "skillGroup": [
+      [
+        {
+          "skillName": "HTML5",
+          "skillLevel": "Advanced"
+        },
+        {
+          "skillName": "CSS",
+          "skillLevel": "Advanced"
+        },
+        {
+          "skillName": "JavaScript",
+          "skillLevel": "Intermediate"
+        }
+      ],
+      [
+        {
+          "skillName": "ReactJS",
+          "skillLevel": "Intermediate"
+        },
+        {
+          "skillName": "NextJS",
+          "skillLevel": "Intermediate"
+        }
+      ]
+    ]
+  },
+  {
+    "category": "Backend Developer",
+    "skillGroup": [
+      [
+        {
+          "skillName": "Spring Framework",
+          "skillLevel": "Intermediate"
+        },
+        {
+          "skillName": "NodeJS",
+          "skillLevel": "Intermediate"
+        }
+      ],
+      [
+        {
+          "skillName": "AWS",
+          "skillLevel": "Intermediate"
+        },
+        {
+          "skillName": "PHP",
+          "skillLevel": "Basic"
+        }
+      ]
+    ]
+  },
+  {
+    "category": "DataBase",
+    "skillGroup": [
+      [
+        {
+          "skillName": "PostgreSQL",
+          "skillLevel": "Intermediate"
+        },
+        {
+          "skillName": "MangoDB",
+          "skillLevel": "Intermediate"
+        }
+      ],
+      [
+        {
+          "skillName": "MySQL",
+          "skillLevel": "Basic"
+        }
+      ]
+    ]
+  },
+  {
+    "category": "Tools",
+    "skillGroup": [
+      [
+        {
+          "skillName": "Linux",
+          "skillLevel": "I use Arch BTW"
+        },
+        {
+          "skillName": "Git",
+          "skillLevel": "Advanced"
+        }
+      ],
+      [
+        {
+          "skillName": "Intellij",
+          "skillLevel": "Intermediate"
+        },
+        {
+          "skillName": "VS Code",
+          "skillLevel": "Intermediate"
+        }
+      ]
+    ]
+  }
+]

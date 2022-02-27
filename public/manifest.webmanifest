@@ -1,0 +1,42 @@
+{
+  "short_name": "Mohammad Abu Mattar | Portfolio",
+  "name": "Mohammad Abu Mattar | Portfolio",
+  "description": "Personal website, to show my software engineering skills at web development.",
+  "icons": [
+    {
+      "src": "/icon/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "shortcuts": [
+    {
+      "name": "Mohammad Abu Mattar | Portfolio",
+      "short_name": "Mohammad Abu Mattar | Portfolio",
+      "description": "Personal website, to show my software engineering skills at web development.",
+      "url": ".",
+      "icons": [
+        {
+          "src": "/icon/logo192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Frontend Developer",
+    "handle": "handleFrontend",
+    "description": "Service with more than 2 years of experience. Providing quality work to clients and companies.",
+    "servicesList": [
+      "I develop the user interface.",
+      "Web page development.",
+      "I create ux element inteactions.",
+      "I position your company brand.",
+      "Design and mockups of products for companies."
+    ]
+  },
+  {
+    "category": "Backend Developer",
+    "handle": "handleBackend",
+    "description": "Service with more than 2 years of experience. Providing quality work to clients and companies.",
+    "servicesList": [
+      "I develop the user interface.",
+      "Web page development.",
+      "I create ux element inteactions.",
+      "I position your company brand.",
+      "Design and mockups of products for companies."
+    ]
+  },
+  {
+    "category": "Branding Designer",
+    "handle": "handleBranding",
+    "description": "Service with more than 2 years of experience. Providing quality work to clients and companies.",
+    "servicesList": [
+      "I develop the user interface.",
+      "Web page development.",
+      "I create ux element inteactions.",
+      "I position your company brand.",
+      "Design and mockups of products for companies."
+    ]
+  }
+]
