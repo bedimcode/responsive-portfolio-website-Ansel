@@ -6,4 +6,9 @@ portfolio v1
 portfolio v2
 
 - https://github.com/MKAbuMattar/portfolio-v2
-- https://mkabumattar-v2.vercel.app/
+- https://portfolio-plh4s9wjy-mkabumattar.vercel.app/
+
+portfolio now
+
+- https://github.com/MKAbuMattar/portfolio
+- https://mkabumattar.vercel.app/
