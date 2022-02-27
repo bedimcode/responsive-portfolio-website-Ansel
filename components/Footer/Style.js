@@ -77,36 +77,71 @@ export const FooterSocialLink = styled.a`
   }
 
   &&:hover ${LinkedinIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${LinkedinIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${GithubIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${GithubIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${CodepenIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${CodepenIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${LeetcodeIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${LeetcodeIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${FacebookIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${FacebookIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${InstagramIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${InstagramIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
 
   &&:hover ${TwitterIcon} {
+    color: var(--title-color);
+    transform: 0.5s;
+  }
+
+  .light-theme &&:hover ${TwitterIcon} {
     color: var(--body-color);
     transform: 0.5s;
   }
