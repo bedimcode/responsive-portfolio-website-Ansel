@@ -37,11 +37,11 @@ const index = () => {
       )
       .then(
         (result) => {
-          console.log(result.text)
+          // console.log(result.text)
           e.target.reset()
         },
         (error) => {
-          console.log(error.text)
+          // console.log(error.text)
           e.target.reset()
         },
       )
