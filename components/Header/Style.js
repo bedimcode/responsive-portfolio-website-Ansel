@@ -99,7 +99,7 @@ export const NavLink = styled.a`
   border-radius: 5rem;
   transition: 0.4s;
 
-  &&:hover {
+  /* &&:hover {
     background: linear-gradient(
       180deg,
       hsla(var(--second-hue), var(--sat), var(--lig), 1),
@@ -107,7 +107,7 @@ export const NavLink = styled.a`
     );
     box-shadow: 0 0 16px hsla(var(--first-hue), var(--sat), var(--lig), 0.2);
     color: var(--title-color);
-  }
+  } */
 `
 
 export const ChangeTheme = styled.span`
